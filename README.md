@@ -8,6 +8,7 @@
 
 # My GitHub Pages link
 [https://ann3319.github.io](https://github.com/ann3319/11402_CS351)
+
  https://ann3319.github.io/11402_CS351/
 
 # Notes about how my organize files/folders
